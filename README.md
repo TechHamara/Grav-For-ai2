@@ -13,6 +13,34 @@ The Grav extension allows you to create stunning particle animations in your App
 📅 **Updated On:** [date=2025-12-20 timezone="Asia/Calcutta"]<br>
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small><br>
 
+## Demo
+
+![grav2.jpg](https://github.com/user-attachments/assets/7089b8f8-ee5b-40c1-97fc-42f00b36460a)
+
+![grav3.jpg](https://github.com/user-attachments/assets/694cc982-2efc-4777-b7d5-0b5c0588dd89)
+
+![grav1.jpg](https://github.com/user-attachments/assets/6e53074d-c3a1-4ddd-8f38-b126347a514c)
+
+![ddf4afd5-c992-4d63-8e19-8a44b588da0c.gif](https://github.com/user-attachments/assets/b57ada3f-b213-4a6a-8151-725e73365cae)
+
+![925c0bdc-3a6e-45ae-8cc9-3d45d7603579.gif](https://github.com/user-attachments/assets/93ad71bc-3541-4813-a529-602688a7fce2)
+
+![df0e8bcc-bfb8-4b96-9d8c-e3808ccffd19.gif](https://github.com/user-attachments/assets/ea1627b3-c979-4a5f-8e48-d273156b2038)
+
+![ef97e95e-0a8f-4cfb-8ed1-b5127cdc4ac0.gif](https://github.com/user-attachments/assets/c056eab5-7a75-4954-a681-456826ad0dad)
+
+![f7305a40-0cc7-41de-aed1-51c109a3ba5b.gif](https://github.com/user-attachments/assets/d36bf47d-7730-4494-a2b3-358379607f9e)
+
+![fd89ff56-3459-4d62-90bb-0b3767de7bcb.gif](https://github.com/user-attachments/assets/ca5fa45d-308f-4e4d-8228-534f2acf4ba0)
+
+## Multiple animations
+
+![146acc18-af59-4cda-9805-3e257507a958.gif](https://github.com/user-attachments/assets/cf7eceb3-7bb6-4e0f-b226-e440bb81b089)
+
+![db67709f-3999-4b51-89aa-8cfe3cdd0c19.gif](https://github.com/user-attachments/assets/ad3bb97a-a4b9-4865-83a3-f2a3d4d3c063)
+
+![27c1f337-80b3-4457-a165-1f4a1d1c176b.gif](https://github.com/user-attachments/assets/95af462b-24d9-4010-b67f-3d138ced9635)
+
 
 ## Blocks
 
