@@ -12,7 +12,7 @@ The Grav extension allows you to create stunning particle animations in your App
 📱 **Minimum API Level:** 7<br>
 📅 **Updated On:** [date=2025-12-20 timezone="Asia/Calcutta"]<br>
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small><br>
-
+🪧 **Library Uses** Thank You **glomadrian** for your [Grav](https://github.com/glomadrian/Grav) library.
 ## Demo
 
 ![grav2.jpg](https://github.com/user-attachments/assets/7089b8f8-ee5b-40c1-97fc-42f00b36460a)
