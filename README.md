@@ -17,6 +17,8 @@ The Grav extension allows you to create stunning particle animations in your App
 
 ## Demo
 
+![Grav-blocks.png](https://github.com/user-attachments/assets/ae49abb1-bda0-4592-8804-6d50e7d3f131)
+
 ![grav2.jpg](https://github.com/user-attachments/assets/7089b8f8-ee5b-40c1-97fc-42f00b36460a)
 
 ![grav3.jpg](https://github.com/user-attachments/assets/694cc982-2efc-4777-b7d5-0b5c0588dd89)
